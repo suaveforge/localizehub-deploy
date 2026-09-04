@@ -1,5 +1,5 @@
 window.LOCALIZEHUB_CONFIG = {
   apiBase: 'https://api-localizehub.suaveforge.com:18025',
   updated: 'Updated 2026.08.25-5',
-  build: '20260904133536-f0541d0c5119'
+  build: '20260904133939-32b4f6b1e53d'
 };
